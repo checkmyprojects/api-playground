@@ -1,0 +1,8 @@
+#pictures{
+    display: flex;
+    gap: 15px;
+}
+#pictures img{
+    width: 400px;
+    height: 100%;
+}
